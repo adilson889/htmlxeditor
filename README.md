@@ -1,0 +1,2 @@
+# htmlxeditor
+htmlxeditor,  host,name
