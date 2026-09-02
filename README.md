@@ -15,12 +15,14 @@
 
 O HTMLxEditor oferece suporte a diferentes tecnologias utilizadas no desenvolvimento Web:
 
-- **HTML** — Estruturação e criação das páginas Web.
-- **CSS** — Estilização, layout, responsividade e aparência dos projetos.
-- **JavaScript (JS)** — Criação de funcionalidades e comportamentos interativos.
-- **TypeScript (TS)** — Desenvolvimento com JavaScript tipado e recursos adicionais de segurança.
-- **JSX** — Desenvolvimento de interfaces utilizando sintaxe JSX.
-- **TSX** — Desenvolvimento de interfaces utilizando TypeScript e JSX.
+### Suporte a:
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- JSX
+- TSX
 
 ### Desenvolvimento
 
@@ -53,7 +55,7 @@ Os projetos podem ser organizados e versionados através do sistema de repositó
 - Consultar o histórico de alterações.
 - Trabalhar com diferentes versões do projeto.
 
-### Publicação
+### Publicação e Hospedagem de Sites
 
 O HTMLxEditor também permite publicar projetos Web diretamente pelo aplicativo.
 
