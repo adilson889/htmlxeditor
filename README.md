@@ -1,2 +1,4 @@
 # htmlxeditor
-htmlxeditor,  host,name
+
+
+docs/icon/ic_app.jpg
